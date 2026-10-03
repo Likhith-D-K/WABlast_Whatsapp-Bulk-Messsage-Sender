@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+whatsapp.db
+.DS_Store
+.env
+chrome_session/
